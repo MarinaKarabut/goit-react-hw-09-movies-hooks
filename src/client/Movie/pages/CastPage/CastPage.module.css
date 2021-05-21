@@ -1,0 +1,9 @@
+.wrapper {
+  padding: 20px 55px;
+  margin: auto;
+}
+
+.notification {
+  font-weight: 600;
+  font-size: 18px;
+}
